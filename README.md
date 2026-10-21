@@ -2,7 +2,7 @@
 
 Projet de séries temporelles réalisé par **Reda Erraoui**, élève ingénieur à l'ENSA Agadir, filière Finance et Ingénierie Décisionnelle, sous l'encadrement de Mme S. Hadiri (2025–2026).
 
-**[Essayer le simulateur en ligne](https://redae03.github.io/#simulateur-series)** · **[Lire le rapport (PDF)](rapport.pdf)**
+**[Essayer le simulateur en ligne](https://redaerraoui.github.io/simulateurs/arma-garch.html)** · **[Lire le rapport (PDF)](rapport.pdf)**
 
 ## Données
 
@@ -58,4 +58,4 @@ python analyse.py
 
 ## Contact
 
-Reda Erraoui · [Portfolio](https://redae03.github.io) · redaerraouie@gmail.com
+Reda Erraoui · [Portfolio](https://redaerraoui.github.io) · redaerraouie@gmail.com
